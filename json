@@ -1,0 +1,20 @@
+{
+  "navne": {
+    "fornavn": "Cathrine",
+    "efternavn": "Singer"
+  },
+  "alder": 23,
+  "studerende": true,
+  "interesser": [
+    "kat",
+    "dans",
+    "rejse",
+    "kage"
+  ],
+  "adresse": {
+    "vej": "Gammel Skovvej 4",
+    "by": "Kastrup",
+    "postnummer": "2770"
+  },
+  "fødselsdato": "2001-05-31"
+}
